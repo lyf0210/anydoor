@@ -1,0 +1,23 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Node.js webserver",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyf0210/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyf0210/anydoor/issues"
+  },
+  "homepage": "https://github.com/lyf0210/anydoor#readme"
+}
